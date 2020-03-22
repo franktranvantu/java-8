@@ -1,11 +1,11 @@
-package com.frank.java8;
+package com.frank;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
-public class IterableToStreamExample {
+public class Main {
 
     public static void main(String[] args) {
         Iterable<String> list = Arrays.asList("mkyong", "java", "kotlin", "spring boot", "android");
