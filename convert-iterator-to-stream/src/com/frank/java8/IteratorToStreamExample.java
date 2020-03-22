@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
-public class Main {
+public class IteratorToStreamExample {
 
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
